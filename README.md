@@ -26,7 +26,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
 ### Table of Contents
 
-| No. | Questions                        |
-| --- | -------------------------------- |
-|     | **Core React**                   |
-| 1   | [What is React?](#what-is-react) |
+| No. | Questions                                                      |
+| --- | -------------------------------------------------------------- |
+|     | **Core React**                                                 |
+| 1   | [What is React?](#https://segmentfault.com/a/1190000023914648) |
