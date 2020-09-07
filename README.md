@@ -34,6 +34,6 @@ You can download the PDF and Epub version of this repository from the latest run
 | 3   | <a href="https://segmentfault.com/a/1190000023846624">javascript 数据结构系列 (三) 栈</a>       |
 | 4   | <a href="https://segmentfault.com/a/1190000023862177">javascript 数据结构系列 (四) 队列</a>     |
 | 5   | <a href="https://segmentfault.com/a/1190000023876515">javascript 数据结构系列 (五) 堆</a>       |
-| 6   | <a href="https://segmentfault.com/a/1190000023890840">javascript 数据结构系列 (六) 哈希表</a>   |
+| 6   | <a href="https://segmentfault.com/a/1190000023922198">javascript 数据结构系列 (六) 数组</a>     |
 |     | **javascript 工具类**                                                                           |
 | 7   | <a href="https://segmentfault.com/a/1190000023914648">javascript 关于 Array 工具函数</a>        |
