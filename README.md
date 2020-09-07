@@ -1,6 +1,6 @@
 # 技术博客主页
 
-> 欢迎访问，本人技术博客首页 <a href="https://segmentfault.com/u/henry_57bcfc6a67f76" target="_blank">个人介绍</a>
+> 欢迎访问，本人技术博客首页 <a href="https://segmentfault.com/u/henry_57bcfc6a67f76" target="_blank">个人主页</a>
 
 ## 涉及领域
 
