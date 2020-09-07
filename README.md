@@ -1,4 +1,4 @@
-# React Interview Questions & Answers
+a# React Interview Questions & Answers
 
 > Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
 
@@ -26,7 +26,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
 ### Table of Contents
 
-| No. | Questions                                                      |
-| --- | -------------------------------------------------------------- |
-|     | **Core React**                                                 |
-| 1   | [What is React?](#https://segmentfault.com/a/1190000023914648) |
+| No. | Questions                                                                    |
+| --- | ---------------------------------------------------------------------------- |
+|     | **Core React**                                                               |
+| 1   | [What is React?](<a href="https://segmentfault.com/a/1190000023914648"></a>) |
