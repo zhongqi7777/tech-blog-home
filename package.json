@@ -1,0 +1,26 @@
+{
+  "name": "data-structures-algorithms-javascrip",
+  "version": "1.0.0",
+  "description": "data-structures algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongqi7777/tech-blog-home.git"
+  },
+  "keywords": [
+    "data-structures",
+    "algorithms"
+  ],
+  "author": "yanlibo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhongqi7777/tech-blog-home/issues"
+  },
+  "homepage": "https://github.com/zhongqi7777/tech-blog-home#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
