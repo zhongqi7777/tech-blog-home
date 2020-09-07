@@ -6,7 +6,7 @@
 
 > 数据结构,算法,框架
 
-### javascript 数据结构
+### javascript 数据结构 (data-sttructures)
 
 | No. | Title                                                                                           |
 | --- | ----------------------------------------------------------------------------------------------- |
@@ -16,6 +16,12 @@
 | 4   | <a href="https://segmentfault.com/a/1190000023862177">javascript 数据结构系列 (四) 队列</a>     |
 | 5   | <a href="https://segmentfault.com/a/1190000023876515">javascript 数据结构系列 (五) 堆</a>       |
 | 6   | <a href="https://segmentfault.com/a/1190000023922198">javascript 数据结构系列 (六) 数组</a>     |
+
+### javascript 算法(algorithms)
+
+| No. | Title                                                                |
+| --- | -------------------------------------------------------------------- |
+| 1   | <a href="https://segmentfault.com/a/1190000023923942">获取最小值</a> |
 
 ### javascript 工具类
 
