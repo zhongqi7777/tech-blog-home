@@ -39,7 +39,7 @@
 
 ### 专栏分类
 
-| No. | Title                                                                                           |
+| No. | Topic                                                                                           |
 | --- | ----------------------------------------------------------------------------------------------- |
 | 1   | [javascript-data-structures](javascript-data-structures.md)                                     |
 | 2   | <a href="https://segmentfault.com/a/1190000023830671">javascript 数据结构系列 (二) 双向链表</a> |
