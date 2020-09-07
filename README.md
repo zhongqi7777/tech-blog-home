@@ -16,4 +16,6 @@
 | 4   | [nodejs](md/nodejs.md)                                         |
 | 5   | [reactjs](md/reactjs.md)                                       |
 | 6   | [webpack4](md/webpack4.md)                                     |
-| 6   | [redux](md/redux.md)                                           |
+| 7   | [redux](md/redux.md)                                           |
+| 8   | [typescript](md/typescript.md)                                 |
+| 9   | [tailwindcss](md/tailwindcss.md)                               |
