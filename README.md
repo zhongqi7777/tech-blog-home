@@ -42,4 +42,4 @@
 | No. | Topic                                                          |
 | --- | -------------------------------------------------------------- |
 | 1   | [javascript-data-structures](md/javascript-data-structures.md) |
-| 1   | [javascript-algorithms](md/javascript-algorthms.md)            |
+| 1   | [javascript-algorithms](md/javascript-algorithms.md)           |
