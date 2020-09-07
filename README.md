@@ -41,7 +41,7 @@
 
 | No. | Title                                                                                           |
 | --- | ----------------------------------------------------------------------------------------------- |
-| 1   | [javascript-data-structures](README.zh-CN.md)                                                   |
+| 1   | [[javascript-data-structures](README.zh-CN.md)]                                                 |
 | 2   | <a href="https://segmentfault.com/a/1190000023830671">javascript 数据结构系列 (二) 双向链表</a> |
 | 3   | <a href="https://segmentfault.com/a/1190000023846624">javascript 数据结构系列 (三) 栈</a>       |
 | 4   | <a href="https://segmentfault.com/a/1190000023862177">javascript 数据结构系列 (四) 队列</a>     |
