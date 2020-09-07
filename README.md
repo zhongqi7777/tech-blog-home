@@ -1,4 +1,4 @@
-# 技术博客主页
+# 技术博客
 
 > 欢迎访问，本人技术博客首页 <a href="https://segmentfault.com/u/henry_57bcfc6a67f76" target="_blank">个人主页</a>
 
