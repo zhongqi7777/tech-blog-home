@@ -28,6 +28,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
 | No. | Title                                                                                           |
 | --- | ----------------------------------------------------------------------------------------------- |
+|     | **javascript 数据结构**                                                                         |
 | 1   | <a href="https://segmentfault.com/a/1190000023914648">javascript 数据结构系列 (一) 单向链表</a> |
 | 2   | <a href="https://segmentfault.com/a/1190000023821886">javascript 数据结构系列 (二) 双向链表</a> |
 | 3   | <a href="https://segmentfault.com/a/1190000023846624">javascript 数据结构系列 (三) 栈</a>       |
