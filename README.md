@@ -26,7 +26,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
 ### Table of Contents
 
-| No. | Questions                                                                    |
-| --- | ---------------------------------------------------------------------------- |
-|     | **Core React**                                                               |
-| 1   | [What is React?](<a href="https://segmentfault.com/a/1190000023914648"></a>) |
+| No. | Questions                                                                                  |
+| --- | ------------------------------------------------------------------------------------------ |
+|     | **Core React**                                                                             |
+| 1   | [<a href="https://segmentfault.com/a/1190000023914648">javascript 关于 Array 工具函数</a>] |
